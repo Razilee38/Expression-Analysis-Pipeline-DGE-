@@ -4,6 +4,7 @@
 A complete step-by-step guide is available here:
 
 👉 [View the Code2Tutorial version](https://code2tutorial.com/tutorial/b8dd2237-b52a-4f10-a0b5-064e28386612/index.md) 
+<img width="956" height="243" alt="image" src="https://github.com/user-attachments/assets/7ae40f88-7fa1-4179-8b57-81bac2cbf69e" />
 
 👉 To get the dataset [View the UCSC Xena Browser](https://xenabrowser.net/datapages/) 
 
