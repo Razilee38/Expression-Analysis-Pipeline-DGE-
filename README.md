@@ -10,6 +10,8 @@ A complete step-by-step guide is available here:
 
 👉 Download TCGA HNSC Dataset <img width="554" height="31" alt="image" src="https://github.com/user-attachments/assets/b58bfb8c-f3f1-4e04-8e87-96d62ddb8e72" />
 Or Any Other Dataset You Wish To Analyze.
+<img width="1193" height="109" alt="image" src="https://github.com/user-attachments/assets/c295ac2b-530a-49d7-9b54-70ccdf7531ec" />
 
-👉 Keep In Mind To Change The File Name If Selecting Any Other Dataset In The Code <img width="394" height="51" alt="image" src="https://github.com/user-attachments/assets/24b29440-6b35-4958-8f73-2c97187db821" />
- 
+
+👉 Keep In Mind To Change The File Name If Selecting Any Other Dataset In The Code 
+<img width="394" height="51" alt="image" src="https://github.com/user-attachments/assets/24b29440-6b35-4958-8f73-2c97187db821" />
